@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Daft Punk",
+      "email": "daft.punk@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "The Strokes",
+      "email": "the.strokes@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "The Rolling Stones",
+      "email": "the.rolling.stones@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "The Smiths",
+      "email": "the.smiths@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "The Cure",
+      "email": "the.cure@gmail.com"
+    },
+    {
+      "name": "ledita",
+      "email": "lantos.edit@hotmail.com",
+      "id": 6
+    },
+    {
+      "name": "Edit Lantos",
+      "email": "lantos.edit@hotmail.com",
+      "id": 8
+    },
+    {
+      "name": "Edit Lantos",
+      "email": "lantos.edit@hotmail.com",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userId": 1
+    }
+  ]
+}
